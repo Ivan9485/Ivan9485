@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Pascual or @Ivan9485. I'm an aeronautical engineer| web developer 
+- 👋 Hi, I’m Pascual or @Ivan9485. I'm an aeronautical engineer | web developer 
 - 👀 I’m interested in self-teaching and expanding my knowledge 
 - 🌱 I’m currently mastering NextJS and NodeJS...
 - 📫 I love working on projects and looking for collaborations, feel free to send dm ;)
