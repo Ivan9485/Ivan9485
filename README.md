@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @Ivan9485
-- 👀 I’m interested in becoming a software developer...
-- 🌱 I’m currently learning JavaScript...
-- 💞️ I’m looking to know what github is for
-- 📫 How to reach me, send dm.
+- 👋 Hi, I’m Pascual or @Ivan9485. I'm an aeronautical engineer| web developer 
+- 👀 I’m interested in self-teaching and expanding my knowledge 
+- 🌱 I’m currently mastering NextJS and NodeJS...
+- 📫 I love working on projects and looking for collaborations, feel free to send dm ;)
 
 <!---
 Ivan9485/Ivan9485 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
